@@ -1,0 +1,8 @@
+{
+  "name": "a2-gitdep-controlled",
+  "version": "1.0.0",
+  "description": "Controlled Dataform Git dependency lifecycle canary",
+  "scripts": {
+    "install": "node write-canary.cjs"
+  }
+}
